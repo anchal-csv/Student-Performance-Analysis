@@ -130,3 +130,9 @@ We train and evaluate three different regression models to predict final exam sc
 * **Study Hours**: Shows the highest positive correlation (+0.716) with final marks. Students studying >6 hours/day average **67.54** marks, compared to **47.46** marks for students studying <3 hours.
 * **Attendance**: Attendance percentage shows a strong positive correlation (+0.231). Excellent attendance (>90%) yields average marks of **61.23**.
 * **Sleep**: Academic performance peaks when sleep is in the healthy range (6–8.5 hours), averaging **59.46** marks. Cognitive retention drops with sleep durations <6 hours.
+
+## Local URL:
+http://localhost:8501
+
+## Network URL: 
+http://192.168.1.38:8501
